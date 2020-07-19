@@ -13,8 +13,7 @@
 
 ## Demo
 Link: [https://myflightratepredictor.herokuapp.com/](https://myflightratepredictor.herokuapp.com/)
-
-<a href="https://myflightratepredictor.herokuapp.com/"><iframe src='//gifs.com/embed/flightratepredictor-GvOEkJ' frameborder='0' scrolling='no' width='394px' height='854px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe></a>
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:216.67%;position:relative;"><iframe width="360" height="780" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/48qc48"></iframe></div><p><a href="https://imgflip.com/gif/48qc48">via Imgflip</a></p></div>
 
 [![](https://i.imgur.com/aBbMis1.png)](https://myflightratepredictor.herokuapp.com/)
 
