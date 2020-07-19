@@ -14,7 +14,7 @@
 ## Demo
 Link: [https://myflightratepredictor.herokuapp.com/](https://myflightratepredictor.herokuapp.com/)
 
-[![](https://i.imgur.com/p5nAwyv.mp4)](https://myflightratepredictor.herokuapp.com/)
+[![](https://imgur.com/p5nAwyv](https://myflightratepredictor.herokuapp.com/)
 
 [![](https://i.imgur.com/aBbMis1.png)](https://myflightratepredictor.herokuapp.com/)
 
