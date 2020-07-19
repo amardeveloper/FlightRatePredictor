@@ -1,16 +1,21 @@
 body {
-    background-color: #e1f4f3;
+    background-image: linear-gradient(-90deg, deepskyblue, lightgray);
     text-align: center;
 }
 
 .navbar {
-    background-color: #333333;
+    background-color: white;
+    
 }
 
 a {
-    color: #f1f9f9;
+    color: black;
+    font-weight: 500;
 }
 
 a:hover {
-    color: #f0f0f0;
+    color: #3121213f;
+  }
+  footer{
+      background-color: white;
   }
